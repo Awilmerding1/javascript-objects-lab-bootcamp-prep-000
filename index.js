@@ -1,1 +1,1 @@
-var recipe =();
+var recipe = {ingredient: "amount"};
